@@ -1,0 +1,7 @@
+gbr columns:
+
+id, type, name, aliases, position, reported_dates_of_birth, place_of_birth, nationality, id_numbers, addresses
+
+ofac columns:
+
+id, type, name, aliases, position, reported_dates_of_birth, place_of_birth, nationality, id_numbers, addresses
